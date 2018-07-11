@@ -1,0 +1,2 @@
+illumina.sam je dobijen pomoću komandne linije bwa stdsw MT.fa test.fastq > illumina.sam
+sinteticki.sam je dobijen pomoću komandne linije bwa stdsw MT.fa art.fq > sinteticki.sam
